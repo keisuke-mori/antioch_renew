@@ -1,21 +1,20 @@
 ## 東京アンテオケ教会リニューアル
-======
 東京アンテオケ教会リニューアル用リポジトリ。
 
 ## フォルダー構成 (例
 
-.
+.  
 +-- css  
-|   +-- configure  
-|   +-- docroot  
+|　　+-- configure  
+|　　+-- docroot  
 +-- js  
 +-- images  
 +-- lib  
-|   +-- (Library name)  
-|   |   +-- css  
-|   |   +-- images  
-|   |   +-- ...  
-|   +-- (Library name)  
+|　　+-- (Library name)  
+|　　|　　+-- css  
+|　　|　　+-- images  
+|　　|　　+-- ...  
+|　　+-- (Library name)  
 +-- index.html  
 +-- Gruntfile.js  
 
